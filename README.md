@@ -21,6 +21,10 @@ Dhriti wants to have a coke during the interval of a movie. The task is to imple
 - Seven Segment Display
 - Power Supply
 
+<img src="https://github.com/user-attachments/assets/be6ee8fd-acbf-469c-b1dd-3975c0d50ffb" width=500px height=350px><img src="https://github.com/user-attachments/assets/26e24e5b-4a28-47c5-84a7-e5e80e5646df" width=500px height=350px><br>
+
+<img src="https://github.com/user-attachments/assets/c1df0c5c-c043-4371-9763-1fb5f29fb2a9" width=500px height=350px><img src="https://github.com/user-attachments/assets/1b4169cf-b9b1-4052-bda5-3f129494afd8" width=500px height=350px><br>
+
 ### Software Requirements
 - Keil uVision 5 
 - Flash Magic tool for uploading firmware
